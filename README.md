@@ -42,16 +42,42 @@ RePlastix is an eco-friendly system designed to recycle plastic waste into susta
 
 ## 📂 Project Structure
 
-```
 RePlastix/
-│── docs/                # Documentation
-│── src/                 # Source code (Apex, Flows)
-│── data-model/          # Objects & Fields
-│── automation/          # Flow Builder & Apex logic
-│── security/            # Roles, Profiles, Users
-│── README.md
-```
-
+│── docs/                  # Contains all project documentation
+│   ├── requirements.md    # Project requirements and objectives
+│   ├── design.md          # System design and architecture
+│   └── user-guide.md      # Instructions for end users
+│
+│── src/                   # Core source code
+│   ├── apex/              # Apex classes and triggers
+│   ├── flows/             # Flow Builder automations
+│   └── lwc/               # Lightning Web Components (UI)
+│
+│── data-model/            # Data structure definition
+│   ├── objects/           # Custom objects
+│   ├── fields/            # Field configurations
+│   └── relationships/     # Object relationships
+│
+│── automation/            # Automation logic
+│   ├── flow-builder/      # Automated workflows
+│   └── apex-logic/        # Backend automation using Apex
+│
+│── security/              # Security and access control
+│   ├── roles/             # Role hierarchy setup
+│   ├── profiles/          # User profiles and permissions
+│   ├── permission-sets/   # Additional access control
+│   └── sharing-rules/     # Record-level security
+│
+│── config/                # Application configuration
+│   ├── app-manager/       # App setup and customization
+│   └── tabs/              # Navigation tabs
+│
+│── tests/                 # Testing and validation
+│   ├── apex-tests/        # Test classes
+│   └── test-data/         # Sample test data
+│
+│── assets/                # Static files
+│   └── project-structure.png   # Project structure diagram
 ---
 
 ## ⚙️ Setup Instructions
