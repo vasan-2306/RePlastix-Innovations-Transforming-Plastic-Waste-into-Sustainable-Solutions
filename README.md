@@ -5,7 +5,11 @@
 RePlastix is an eco-friendly system designed to recycle plastic waste into sustainable and reusable products. The project promotes a **circular economy** by reducing environmental pollution and encouraging responsible waste management.
 
 ---
+##🎓 Institution Details
 
+College Name: Sri Ramanujar Engineering College
+Department: Computer Science / Engineering
+---
 ## 🚀 Features
 
 * ♻️ Plastic waste collection and tracking
