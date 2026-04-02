@@ -7,9 +7,8 @@ RePlastix is an eco-friendly system designed to recycle plastic waste into susta
 ---
 ## 🎓 Institution Details
 
-College Name: Sri Ramanujar Engineering College
-
-Department: Computer Science / Engineering
+**College Name: Sri Ramanujar Engineering College**
+**Department: Computer Science / Engineering**
 ---
 ## 🚀 Features
 
