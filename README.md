@@ -36,11 +36,11 @@ Department: Computer Science / Engineering
 
 ## 👥 Team Members
 
-* **Vasanth N** (Team Lead)
-* **Yuvan Venkat J**
-* **Yuvaraj B**
-* **Yuvaraj K**
-* **Yuvabharathi B**
+* **Vasanth N** (Team Lead) - 412323104066
+* **Yuvan Venkat J** - 41232310468
+* **Yuvaraj B** - 412323104069
+* **Yuvaraj K** - 412323104070
+* **Yuvabharathi B** - 412323104067
 
 ---
 
