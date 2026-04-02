@@ -42,12 +42,6 @@ RePlastix is an eco-friendly system designed to recycle plastic waste into susta
 
 ## 📂 Project Structure
 
-Here’s a **clean README content specifically for the Project Structure section** (you can paste directly into your `README.md`) 👇
-
----
-
-## 📂 Project Structure
-
 ```
 RePlastix/
 │── docs/                  # Contains all project documentation
@@ -85,9 +79,6 @@ RePlastix/
 │
 │── assets/                # Static files
 │   └── project-structure.png   # Project structure diagram
-│
-│── README.md              # Project documentation
-│── LICENSE                # License information
 ```
 
 
